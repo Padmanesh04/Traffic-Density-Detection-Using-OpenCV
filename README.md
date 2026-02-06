@@ -9,7 +9,7 @@ It counts the number of cars and determines traffic density.
 - Haar Cascade
 - webcam
 
-##Features
+## Features
 - Detect vehicles from live camera feed
 - Count number of cars
 - Analyze traffic density
